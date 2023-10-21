@@ -6,6 +6,6 @@ public class GithubLink : MonoBehaviour
 {
     public void Openlink()
     {
-        Application.OpenURL("https://github.com/NicoleB59/Challenge3");
+        Application.OpenURL("https://github.com/NicoleB59/Challenge-3");
     }
 }
